@@ -18,17 +18,23 @@ Im an enthusiast about building apps, websites, experimenting with AI, linux, se
 ### Backend 
 - -[ ] **asp.net**
 - -[ ] **node.js**
-- -[ ] **flask**
-- -[ ] **FastAPI**
+- -[ ] **Django**
+- -[ ] **Axium**
+- -[ ] **fiber**
 ### Database
 - -[ ] **MySQL**
 - -[ ] **PostgreSQL**
 - -[ ] **SQLite**
 - -[ ] **MongoDB**
-### DevOps
+- -[ ] **Pinecone**
+### cloud & DevOps
 - -[ ] **Docker**
 - -[ ] **kubernetes**
-### AI/ML/DA
+- -[ ]  **AWS**
+- -[ ] **qemu**
+- -[ ] **kvm**
+- -[ ] **Terraform**
+### AI/ML/DL
 - -[ ] **Pandas**
 - -[ ] **Numpy**
 - -[ ] **Matplotlib**
