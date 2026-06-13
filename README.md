@@ -1,6 +1,9 @@
 # welcome to mata-codes hub
 ---
 ## Software engineer student | math enthusiast
+
+[![committers.top badge](https://user-badge.committers.top/dominican_republic/USERNAME.svg)](https://user-badge.committers.top/dominican_republic/mata-codes)
+
 ---
 Im an enthusiast about building apps, websites, experimenting with AI, linux, secure development and their usage made for solving real world problems. <br>
 ### roadmap card
