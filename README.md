@@ -23,7 +23,7 @@ Im an enthusiast about building apps, websites, experimenting with AI, linux, se
 - -[ ] **node.js**
 - -[ ] **Django**
 - -[ ] **Axium**
-- -[ ] **gin**
+- -[ ] **fiber**
 ### Database
 - -[ ] **MySQL**
 - -[ ] **PostgreSQL**
