@@ -53,7 +53,7 @@ Im an enthusiast about building apps, websites, experimenting with AI, linux, se
 - -[ ] **linux**
 - -[ ] **nix/nixos**
 ---
-- 💬 Ask me about **linux, ssg on astro, React...or anything [here](https://github.com/{mata-codes}/{mata-codes}/issues)**
+- 💬 Ask me about **linux, math, music, unix tools for development...or anything [here](https://github.com/{mata-codes}/{mata-codes}/issues)**
 
 <div align="center">
   <a href="matajorysniel@gmail.com">
