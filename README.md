@@ -24,12 +24,17 @@ Im an enthusiast about building apps, websites, experimenting with AI, linux, se
 - -[ ] **Django**
 - -[ ] **Axium**
 - -[ ] **fiber**
+- -[ ] **phoenix**
+- -[ ] **otp**
 ### Database
 - -[ ] **MySQL**
 - -[ ] **PostgreSQL**
 - -[ ] **SQLite**
 - -[ ] **MongoDB**
 - -[ ] **Pinecone**
+- -[ ] **goose**
+- -[ ] **sqlc**
+- -[ ] **dotnet ef**
 ### cloud & DevOps
 - -[ ] **Docker**
 - -[ ] **kubernetes**
